@@ -23,7 +23,7 @@ For support, add on discord psychedelicseyes
 
 
 ## Demo
-![Test Demo](https://psychedelics-next-js-auth.vercel.app)
+[Test Demo](https://psychedelics-next-js-auth.vercel.app)
 
 ![Sign in light mode](https://image.noelshack.com/fichiers/2024/24/6/1718476584-lololo.png)
 ![Sign up light mode](https://image.noelshack.com/fichiers/2024/24/6/1718476584-lilili.png)
